@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vansh Vasudev aka geekyDev
-- 👀 Backend languages like java, C, C++ and a fundamental cybersecurity concepts interests me
+- 👀 Backend languages like java, C, C++ and fundamental cybersecurity concepts interests me
 - 🌱 I’m currently learning Java frameworks and DSA
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me vanshvasudev23@gmail.com 
