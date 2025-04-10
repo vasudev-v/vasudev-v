@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vansh Vasudev aka geekyDev
+- 👋 Hi, I’m Vansh Vasudev
 - 👀 Backend languages like java, C, C++ and operating systems interests me
 - 🌱 I’m currently learning Java frameworks and DSA and some front end development
 - 🤖 Hackathon Enthusiast
